@@ -1,0 +1,1 @@
+nohup java -Dfile.encoding=UTF-8 -jar demo-0.0.1-SNAPSHOT >log3j &
